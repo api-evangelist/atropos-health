@@ -1,0 +1,109 @@
+aid: atropos-health
+name: Atropos Health
+description: >-
+  Atropos Health is a Stanford-spinout, New York / Bay Area real-world
+  evidence (RWE) company founded in 2020 by Nigam Shah, Brigham Hyde, and
+  Saurabh Gombar to close the medical "evidence gap" by converting routine
+  healthcare data into publication-grade observational studies in minutes
+  instead of months. Its flagship platform GENEVA OS (Generative Evidence
+  Acceleration Operating System) is a federated, cloud-agnostic operating
+  system that installs behind the customer's firewall, ingests longitudinal
+  patient records as in-memory patient-timeline objects, and exposes a
+  Temporal Query Language (TQL) and Advanced Cohort Engine (ACE) for
+  rapid observational analyses without moving PHI. On top of GENEVA OS,
+  Atropos offers ChatRWD, a conversational chat-to-database application
+  that generates full observational studies from natural-language clinical
+  questions, the Atropos Evidence Agent (an agentic AI deployed at
+  Stanford Health Care and developed in collaboration with Microsoft to
+  surface RWE directly inside clinical workflows and notes), Green Button
+  (the original on-demand consult-style evidence service that gave rise
+  to the company), Forge (study automation), and Alexandria, marketed as
+  the world's largest body of precision evidence-based findings with
+  33M+ entries used for clinical decision support and LLM training. The
+  company sells into health systems (pharmacy, research informatics,
+  value-based care, GME) and life sciences (brand planning, HEOR, medical
+  affairs, R&D, commercial analytics, precision-medicine AI/ML), is
+  backed by Valtruis, Emerson Collective, Breyer Capital, McKinsey
+  Ventures, Cencora Ventures, Presidio Ventures, Merck Global Health
+  Innovation, Samsung Next, and others, and partners with Stanford
+  Health Care, Mayo Clinic Platform, and Microsoft. Atropos has no
+  public developer API, SDK, or open-source release; GENEVA OS, TQL,
+  ACE, ChatRWD, and the Evidence Agent are proprietary enterprise
+  software delivered under contract to health-system and life-sciences
+  customers, and the company's public GitHub org contains only forks
+  (FAISS, HELM, security-policy-templates, terraform-aws-github-runner)
+  and a small number of internal research notebooks rather than any
+  shippable client library.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Real World Evidence
+  - Real World Data
+  - Clinical Evidence
+  - Observational Studies
+  - Healthcare Analytics
+  - Health Data
+  - Generative AI
+  - Agentic AI
+  - Clinical Decision Support
+  - Life Sciences
+  - Health Systems
+  - Pharma
+  - HEOR
+  - Federated Analytics
+  - Temporal Query Language
+  - Patient Timelines
+  - GENEVA OS
+  - ChatRWD
+  - Alexandria
+  - Green Button
+  - Stanford Spinout
+url: https://raw.githubusercontent.com/api-evangelist/atropos-health/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.atroposhealth.com
+  - type: Technology
+    url: https://www.atroposhealth.com/technology/
+  - type: GenevaOS
+    url: https://www.atroposhealth.com/geneva-os/
+  - type: ChatRWD
+    url: https://www.atroposhealth.com/chatrwd/
+  - type: EvidenceAgent
+    url: https://www.atroposhealth.com/atropos-evidence-agent/
+  - type: Alexandria
+    url: https://www.atroposhealth.com/alexandria/
+  - type: Solutions
+    url: https://www.atroposhealth.com/solutions/
+  - type: HealthSystems
+    url: https://www.atroposhealth.com/health-systems/
+  - type: LifeSciences
+    url: https://www.atroposhealth.com/life-sciences/
+  - type: About
+    url: https://www.atroposhealth.com/about-us/
+  - type: Resources
+    url: https://www.atroposhealth.com/resources/
+  - type: Blog
+    url: https://www.atroposhealth.com/blog/
+  - type: News
+    url: https://www.atroposhealth.com/news-media/
+  - type: PressRelease
+    url: https://www.atroposhealth.com/press-release/
+  - type: Careers
+    url: https://www.atroposhealth.com/careers/
+  - type: Contact
+    url: https://www.atroposhealth.com/contact-us/
+  - type: GitHub
+    url: https://github.com/atroposhealth
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/atropos-health
+  - type: Twitter
+    url: https://twitter.com/AtroposHealth
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
