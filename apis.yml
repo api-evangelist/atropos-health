@@ -50,6 +50,28 @@ position: Provider
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/atropos-health.png
 tags:
+  - Real-World Evidence
+  - Real-World Data
+  - Clinical Evidence
+  - Observational Studies
+  - Healthcare Analytics
+  - Health Data
+  - Generative AI
+  - Agentic AI
+  - Clinical Decision Support
+  - Life Sciences
+  - Health Systems
+  - Pharma
+  - HEOR
+  - Federated Analytics
+  - Temporal Query Language
+  - Patient Timelines
+  - GENEVA OS
+  - ChatRWD
+  - Alexandria
+  - Green Button
+  - Stanford Spinout
+tags_raw:
   - Real World Evidence
   - Real World Data
   - Clinical Evidence
